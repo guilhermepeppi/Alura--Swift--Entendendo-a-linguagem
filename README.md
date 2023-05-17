@@ -1,2 +1,2 @@
 # Alura
- Projetos da formação Swift da Alura
+ Projetos da Formação Swift da Alura
